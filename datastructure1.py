@@ -1,4 +1,4 @@
-#----------------Activity 1-------------------
+#----------------Operations on List-------------------
 # lst = ['Apple', 'Guava', 'Mango', 'Banana', 'Kiwi']
 
 # print("Length of list:", len(lst))
@@ -28,7 +28,7 @@
 # lst.clear()
 # print("Updated List :", lst)
 
-#----------------Activity 2-------------------
+#----------------Operations on Dictionary-------------------
 # # empty dictionary
 # my_dict = {}
 
@@ -63,7 +63,7 @@
 # my_dict.clear()
 # print(my_dict)
 
-#----------------Activity 3-------------------
+#----------------List to Dictionary-------------------
 # def test(lst):
 # 	result = {}
 # 	for item in lst:
@@ -77,7 +77,7 @@
 # print("\nConverted  lists to a dictionary:")
 # print(test(students))
 
-#----------------ACP-------------------
+#----------------Number Guessing Game-------------------
 # import random
 
 # lower_bound = 1
